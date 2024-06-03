@@ -1,0 +1,14 @@
+{
+  "name": "railway-node-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": "https://github.com/mdsf/railway-node-express.git",
+  "author": "mdsf <moeid1@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
